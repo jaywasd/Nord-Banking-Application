@@ -1,3 +1,7 @@
+# Nord-Banking-Application
+### A full-fledged CLI application of Banking Management System.
+### The project was built using popular software development practices like SOLID principles and TDD to make the code easily understandable and bug-free.
+
 ## PLEASE NOTE
 
 Database configs are being accessed from the systems environment variables.
